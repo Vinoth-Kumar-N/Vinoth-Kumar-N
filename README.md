@@ -1,5 +1,7 @@
 ## Hi there 👋 **I'm Vinoth Kumar N**
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Full-Stack+Developer;Web3+Enthusiast)](https://git.io/typing-svg)
+
 @ Information Technology Student
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 I’m currently Studying B.Tech,IT on Sri Shskthi Institute of Engineering and Technology
