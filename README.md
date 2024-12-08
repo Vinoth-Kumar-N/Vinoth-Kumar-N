@@ -16,7 +16,7 @@
 
 <div align="left">
   <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SiranjeeviK&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Vinoth-Kumar-N&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </p>
 </div>
 
@@ -28,5 +28,12 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>  <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 
 <br /> ![LeetCode Stats](https://leetcard.jacoblin.cool/Leetvino?theme=dark&font=Marcellus)
+
+###
+<div align="center">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Vinoth-Kumar-N&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vinoth-Kumar-N&" alt="Vinoth-Kumar-N" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinoth-Kumar-N&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 <br /> [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinoth-Kumar-N&bg_color=11080d&color=ededf3&line=5ab569&point=594f4f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
