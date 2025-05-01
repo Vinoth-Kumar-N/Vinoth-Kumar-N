@@ -6,7 +6,7 @@
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 I’m currently Studying B.Tech,IT on Sri Shskthi Institute of Engineering and Technology
 - 🌱 I’m currently learning DSA
-- 👯 I’m looking to collaborate on FrontEnd Development
+- 👯 I’m looking to collaborate on MERN Development
 - 🤔 I’m looking for help with Placements in Product Based company
 - 💬 Ask me about Tech
 - 📫 How to reach me:<br />
